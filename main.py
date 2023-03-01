@@ -1,5 +1,4 @@
 import time
-
 import pygame, sys, copy
 
 ADANCIME_MAX = 6
