@@ -4,7 +4,7 @@ This is an university project for the subject: Artificial Inteligence.
 
 It is a game of X-0. The player can choose the board's dimensions, the score needed to win the game, one of two bot AIs and a symbol ( X/0 ).
 
-##Game rules:
+## Game rules:
 
 - The board dimensions have to be: odd number vertically and even number horizontally.
 - At the start of the game, there will be two symbols (one of each) already places in the middle of the board.
