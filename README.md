@@ -2,7 +2,7 @@
 
 This is an university project for the subject: Artificial Inteligence.
 
-It is a game of X-0, also known as Tic-Tac-Toe. The game rules and board are modified to make it more interesting. The person playing will go against an AI. The player can choose the board's dimensions, the score needed to win the game, one of two bot AIs and a symbol for themselves ( X/0 ).
+It is a game of X-0, also known as Tic-Tac-Toe. The game rules and board are modified to make it more interesting. The person playing will go against an AI. The player can choose the board's dimensions, the score needed to win the game, one of two bot AIs, and a symbol for themselves ( X/0 ).
 
 ## Game rules:
 
