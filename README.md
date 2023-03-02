@@ -14,4 +14,5 @@ It is a game of X-0. The player can choose the board's dimensions, one of two bo
 
 e.g.
 
-![4x4grid](https://user-images.githubusercontent.com/81815165/222347024-659cf662-846a-4248-a3ac-856e012f0dfc.jpg | width=100)
+<img src="https://user-images.githubusercontent.com/81815165/222347024-659cf662-846a-4248-a3ac-856e012f0dfc.jpg" width="100" height="100">
+
