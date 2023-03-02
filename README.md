@@ -12,7 +12,7 @@ It is a game of X-0. The player can choose the board's dimensions, the score nee
 - The last symbol places by each of the players will be marked by a change of color (green).
 - The player and the bot take turns placing new symbols on the board. A new symbol can be placed 1 block away from the last one (the green one). The distance can be vertical, horizontal or diagonal. The spaces 1 block away from the last one placed = neighboring blocks.
 
-e.g.
+\t e.g.
 
 <img src="https://user-images.githubusercontent.com/81815165/222347024-659cf662-846a-4248-a3ac-856e012f0dfc.jpg" width="300" height="300">
 
