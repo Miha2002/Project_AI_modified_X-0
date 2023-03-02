@@ -4,6 +4,8 @@ This is an university project for the subject: Artificial Inteligence.
 
 It is a game of X-0, also known as Tic-Tac-Toe. The game rules and board are modified to make it more interesting. The person playing will go against an AI. The player can choose the board's dimensions, the score needed to win the game, one of two bot AIs, and a symbol for themselves ( X/0 ).
 
+The game has a simple user interface and the player can use the mouse to play.
+
 ## Game rules:
 
 - The board dimensions have to be: odd number vertically and even number horizontally.
@@ -23,4 +25,8 @@ It is a game of X-0, also known as Tic-Tac-Toe. The game rules and board are mod
     - the symbol has 2 or less neighboring blocks with the same symbol as itself.
 
 - If a player places a symbol over the other player's symbol that counts as a point taken.
-- 
+- When one of the players wins, the game ends and the winner's symbols are marked with a red color.
+
+    e.g.
+
+    <img src="https://user-images.githubusercontent.com/81815165/222521543-34804f21-583c-4477-badd-9ca37180f215.png" height="300">
